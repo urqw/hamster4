@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>9911B31B65D2602D5EE65F4C43A39293</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Похождения отважного хомяка Семёна 4: Жизнь жуков</title>
+			<author>Mikhail</author>
+			<language>ru</language>
+			<firstpublished>2006-04-15</firstpublished>
+			<genre>Юмор</genre>
+			<group>URQ</group>
+			<description>Вы - хомяк по кличке Семён. Если вы прошли предыдущие игры серии, то должны помнить, что вас коварно заточили в клетку, но Вам удалось вырваться на свободу, спуститься со стола и  пробраться к выходу из дома. Теперь вы в роли хомяка Семёна должны пробратся к дороге. Пока всё.</description>
+			<series>Похождения отважного хомяка Семёна</series>
+			<seriesnumber>4</seriesnumber>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#hamster4</url>
+			<authoremail>mst@r66.ru</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-24</originated>
+		</colophon>
+	</story>
+</ifindex>
