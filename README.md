@@ -4,7 +4,7 @@ Text-based game "The Adventures of Brave Hamster Semyon 4: A Bug's Life" (Russia
 
 The game is in Russian, developed for URQ_DOS, and adapted for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#hamster4).
+This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=hamster4).
 
 The game was first published on April 15, 2006.
 
